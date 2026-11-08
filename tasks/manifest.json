@@ -1,0 +1,8 @@
+{
+  "id": "tasks",
+  "name": "Tasks",
+  "kind": "tasks",
+  "version": "1.0.0",
+  "description": "A to-do list on the island: due times, reminders and priority tags",
+  "settings": []
+}
